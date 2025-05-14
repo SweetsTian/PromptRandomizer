@@ -1,8 +1,8 @@
 {
-  "name": "PromptRandomizer",
+  "display_name": "PromptRandomizer",
   "version": "1.0.0",
   "description": "Injects randomized noise into user prompts to disrupt platform-level fingerprinting.",
-  "main": "prompt_randomizer.js",
+  "js": "prompt_randomizer.js",
   "author": "Echo + GPT",
   "tags": ["prompt", "anti-fingerprint", "llm"],
   "enabled": true
